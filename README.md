@@ -65,7 +65,7 @@ Retorna uma lista de filmes cadastrados.
 ![Rota Navegador](https://github.com/marcelohoficial/dsi0015-atividade-pratica-1/blob/master/public/filmes-navegador.png?raw=true)
 ![Rota Insomnia](https://github.com/marcelohoficial/dsi0015-atividade-pratica-1/blob/master/public/filmes-insomnia.png?raw=true)
 
-## 🛠️ Tecnologias
+### 🛠️ Tecnologias
 
 - Node.js
 - Express.js
