@@ -2,6 +2,10 @@
 
 Uma API simples para demonstração de rotas usando Express.js
 
+## Repositório
+
+[Repositório GIT](https://github.com/marcelohoficial/dsi0015-atividade-pratica-1)
+
 ## 🚀 Como executar
 
 1. Clone o repositório
