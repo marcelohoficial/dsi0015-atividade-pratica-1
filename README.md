@@ -29,7 +29,8 @@ Rota principal que retorna uma mensagem de boas-vindas.
 "Olá, bem-vindo à minha API!"
 ```
 
-![Rota Principal](caminho/para/sua/imagem1.png)
+![Rota Navegador](https://github.com/marcelohoficial/dsi0015-atividade-pratica-1/blob/master/public/raiz-navegador.png?raw=true)
+![Rota Insomnia](https://github.com/marcelohoficial/dsi0015-atividade-pratica-1/blob/master/public/raiz-insomnia.png?raw=true)
 
 ### GET /filmes
 
@@ -57,7 +58,8 @@ Retorna uma lista de filmes cadastrados.
 ]
 ```
 
-![Rota Filmes](caminho/para/sua/imagem2.png)
+![Rota Navegador](https://github.com/marcelohoficial/dsi0015-atividade-pratica-1/blob/master/public/filmes-navegador.png?raw=true)
+![Rota Insomnia](https://github.com/marcelohoficial/dsi0015-atividade-pratica-1/blob/master/public/filmes-insomnia.png?raw=true)
 
 ## 🛠️ Tecnologias
 
